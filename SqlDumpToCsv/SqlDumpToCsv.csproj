@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net461</TargetFramework>
+    <AssemblyName>sqldump-to-csv</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Shaman.Configuration.Manager" Version="1.0.1.5" />
+    <PackageReference Include="Shaman.JsonFile" Version="1.0.1.11" />
+    <PackageReference Include="Shaman.Streams.Utf8" Version="1.0.0.18" />
+  </ItemGroup>
+
+</Project>
