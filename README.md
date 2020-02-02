@@ -18,3 +18,4 @@ If you only specify the input file, a summary of the tables in the file will be 
 * `sqldump-to-csv Northwind.sql`
 * `sqldump-to-csv Northwind.sql exported-customers.csv --table Customers`
 * `sqldump-to-csv Northwind.sql exported\ --all-tables --out-format csv`
+
